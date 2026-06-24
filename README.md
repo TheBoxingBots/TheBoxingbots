@@ -1,5 +1,5 @@
 ## Hi there 👋
 
 <p align="center">
-  <img src="assets/tbb-demo.gif">
+  <img src="assets/tbb.gif">
 </p>
