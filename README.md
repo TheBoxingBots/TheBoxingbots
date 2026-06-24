@@ -1,3 +1,5 @@
 ## Hi there 👋
 
-![The Boxing Bots Demo](TBB%20ad.gif)
+<p align="center">
+  <img src="TBB%20ad.gif" width="800">
+</p>
