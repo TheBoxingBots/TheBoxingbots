@@ -10,8 +10,6 @@
   <img src="assets/TBB%20ad.gif" width="1000">
 </p>
 
-![The Boxing Bots](assets/TBB%20ad.gif)
-
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Ages 8+](https://img.shields.io/badge/Ages-8%2B-brightgreen)]()
 [![Made in India](https://img.shields.io/badge/Made%20in-India-orange)]()
