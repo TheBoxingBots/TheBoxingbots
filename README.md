@@ -29,7 +29,6 @@ Powered by a custom-designed control board based on the ESP32, The Boxing Bots c
 
 > A dynamic blend of **Education, Technology, and Interaction.**
 ---
----
 ## ⭐ Key Highlights
 
 | Feature | Description |
