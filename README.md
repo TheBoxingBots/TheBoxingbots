@@ -99,9 +99,6 @@ Powered by a custom-designed control board based on the ESP32, The Boxing Bots c
 ## 📁 Repository Structure
 
 ```
-## 📁 Repository Structure
-
-```
 TheBoxingbots/
 │
 ├── 3d-models/                           # STL & STEP files for 3D printed parts
@@ -113,18 +110,17 @@ TheBoxingbots/
 ├── firmware/
 │   ├── Practice Codes/
 │   │   ├── LEVEL - 1                    # Arduino programming fundamentals
-│   │   ├── LEVEL - 2                    # Motor & servo control
+│   │   ├── LEVEL - 2                    # Motor & Servo control
 │   │   ├── LEVEL - 3                    # Controller mapping & input handling
 │   │   ├── LEVEL - 4                    # Wireless robot control
 │   │   └── LEVEL - 5                    # Advanced robot movements & special moves
 │   └── TBB CODE/
 │       └── TBB_FINAL_CODE.ino           # Complete firmware for The Boxing Bots
-├── stickers/                            # Printable sticker & branding files
+├── stickers/                            # Printable stickers & branding files
 ├── .gitignore
 ├── LICENSE
 └── README.md
 ```
-
 ---
 
 ## 🚀 Getting Started
