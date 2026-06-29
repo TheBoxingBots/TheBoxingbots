@@ -28,7 +28,6 @@ The Boxing Bots is a first-of-its-kind **DIY Robotics & IoT Boxing Kit** that tr
 Powered by a custom-designed control board based on the ESP32, The Boxing Bots combines mechanical assembly, wireless control, and programmable robot movements to create an engaging learning platform for students, educators, makers, and robotics enthusiasts. Whether you're taking your first steps into robotics or developing advanced battle strategies, every build encourages creativity, problem-solving, and innovation.
 
 > A dynamic blend of **Education, Technology, and Interaction.**
-
 ---
 
 ## ⭐ Key Highlights
@@ -72,8 +71,6 @@ Powered by a custom-designed control board based on the ESP32, The Boxing Bots c
 - ✅ Screwdriver
 
 ---
-
-## 🔧 Specifications
 
 ## 🔧 Specifications
 
