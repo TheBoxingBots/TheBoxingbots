@@ -1,0 +1,30 @@
+# Build output
+build/
+bin/
+*.o
+*.elf
+*.hex
+*.bin
+*.map
+
+# Arduino / IDE files
+.arduino15/
+*.orig
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# PlatformIO
+.pio/
+.pioenvs/
+.piolibdeps/
+
+# Logs
+*.log
