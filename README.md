@@ -127,6 +127,12 @@ For full setup instructions, download the guide for your OS:
 - 🍎 **macOS** → [TheBoxingBots Arduino macOS Guide](docs/TheBoxingBots_Arduino_macOS_Guide_v1.docx)
 
 ---
+## 📺 Video Tutorials
+
+Watch the full assembly walkthrough on our YouTube playlist:
+
+[Assembly Playlist](https://www.youtube.com/@TheBoxingBots/playlists)
+---
 
 ## 🎁 What You Get Beyond the Kit
 
