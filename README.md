@@ -127,7 +127,7 @@ TheBoxingbots/
 
 For full setup instructions, download the guide for your OS:
 
-- 🪟 **Windows** → [TBB-Bluepad Setup Guide](docs/TBB-Bluepad%20Setup.pdf)
+- 🖥️ **Windows** → [TBB-Bluepad Setup Guide](docs/TBB-Bluepad%20Setup.pdf)
 - 🍎 **macOS** → [TheBoxingBots Arduino macOS Guide](docs/TheBoxingBots_Arduino_macOS_Guide_v1.docx)
 
 ---
